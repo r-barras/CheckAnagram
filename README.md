@@ -1,5 +1,5 @@
 # CheckAnagram
-A simple string comparator that checks if two strings of equal lengths share the exact same words using ASCII
+A simple string comparator that checks if two strings of equal lengths share the exact same letters using ASCII
 
 Given the task of determining if two words of equal lengths share the same letters I considered different approaches:
 - To iterate through one of the letters and pop() the corresponding letter in the other word; then checking if the second word has any letters left;
